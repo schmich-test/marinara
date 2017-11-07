@@ -804,5 +804,8 @@
   "digital_alarm_clock": {
     "message": "Alarma de Reloj Digital",
     "description": "Sound name. Shown in the audio notification dropdown in settings."
+  },
+  "test": {
+    "message": "test"
   }
 }
